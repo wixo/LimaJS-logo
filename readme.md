@@ -2,4 +2,4 @@
 LimaJS Logo
 =====
 
-!(LimaJS-500x500.jpg)
+![](/LimaJS-500x500.jpg)
